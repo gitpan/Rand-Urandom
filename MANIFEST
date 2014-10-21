@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Rand-Urandom.t
+lib/Rand/Urandom.pm
